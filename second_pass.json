@@ -1,0 +1,858 @@
+[
+    {
+        "question_id": 262148000,
+        "answer": "He is looking at the skateboard.<|eot_id|>"
+    },
+    {
+        "question_id": 262148001,
+        "answer": "They are watching the skateboarder perform tricks.<|eot_id|>"
+    },
+    {
+        "question_id": 262148002,
+        "answer": "A picnic table.<|eot_id|>"
+    },
+    {
+        "question_id": 393225000,
+        "answer": "The website that copyrighted the picture is HTTP://FOODIEBAKER.COM.<|eot_id|>"
+    },
+    {
+        "question_id": 393225001,
+        "answer": "No, this soup is not creamy. It appears to be a clear broth with noodles, shrimp, and vegetables.<|eot_id|>"
+    },
+    {
+        "question_id": 393225002,
+        "answer": "Yes, it is a rice noodle soup, as indicated by the presence of rice noodles in the bowl.<|eot_id|>"
+    },
+    {
+        "question_id": 393225003,
+        "answer": "To the right of the soup is a pair of chopsticks and a small spoon.<|eot_id|>"
+    },
+    {
+        "question_id": 393226000,
+        "answer": "The man is crossing the street.<|eot_id|>"
+    },
+    {
+        "question_id": 393226001,
+        "answer": "There are 3 photos in the image.<|eot_id|>"
+    },
+    {
+        "question_id": 393226002,
+        "answer": "The truck on the left is an ice cream truck, as indicated by the words \"ICE CREAM\" and \"Sundaes\" on its side.<|eot_id|>"
+    },
+    {
+        "question_id": 240301000,
+        "answer": "There is a gap between the roof and wall because it is a ventilation gap. This allows air to circulate through the barn, which is essential for maintaining a healthy environment for the cattle. The gap also provides natural light and helps to reduce the need for artificial lighting, which can be beneficial for the cattle's well-being.<|eot_id|>"
+    },
+    {
+        "question_id": 240301001,
+        "answer": "Yes, it is daylight in this picture.<|eot_id|>"
+    },
+    {
+        "question_id": 240301002,
+        "answer": "The cow is likely laying down because it is hot and the ground is covered in wood chips, which provide a comfortable and cool surface for the cow to rest on.<|eot_id|>"
+    },
+    {
+        "question_id": 131089000,
+        "answer": "The grass in this picture is green.<|eot_id|>"
+    },
+    {
+        "question_id": 131089001,
+        "answer": "The batter appears to have just swung at the ball, but it is unclear whether he made contact with it or not. The image is a black and white photograph, which makes it difficult to determine if the ball was hit or not.<|eot_id|>"
+    },
+    {
+        "question_id": 131089002,
+        "answer": "There is one child playing ball.<|eot_id|>"
+    },
+    {
+        "question_id": 131089003,
+        "answer": "No, there is a wooden fence in the image.<|eot_id|>"
+    },
+    {
+        "question_id": 131089004,
+        "answer": "Yes, the boy is playing baseball. He is holding a bat and appears to be in the middle of swinging it. The background suggests that he is playing in a backyard or park, which is a common location for casual games of baseball.<|eot_id|>"
+    },
+    {
+        "question_id": 262162000,
+        "answer": "No, the chair in the image appears to be an office chair.<|eot_id|>"
+    },
+    {
+        "question_id": 262162001,
+        "answer": "There is one bed in the image.<|eot_id|>"
+    },
+    {
+        "question_id": 262162002,
+        "answer": "The bedspread is a light pink color.<|eot_id|>"
+    },
+    {
+        "question_id": 262162003,
+        "answer": "There are 6 pictures on the wall.<|eot_id|>"
+    },
+    {
+        "question_id": 262162004,
+        "answer": "No, the bed in the image appears to be a single bed, as it is smaller than a standard twin mattress.<|eot_id|>"
+    },
+    {
+        "question_id": 262162005,
+        "answer": "There are two sources of light: the window and the lamp on the desk.<|eot_id|>"
+    },
+    {
+        "question_id": 262162006,
+        "answer": "No, the room is not decorated for the 1970s. The bedspread, the artwork on the wall, and the desk and chair all suggest a more modern aesthetic.<|eot_id|>"
+    },
+    {
+        "question_id": 262162007,
+        "answer": "Yes, the lights are on in this room, as evidenced by the bright illumination of the space.<|eot_id|>"
+    },
+    {
+        "question_id": 262162008,
+        "answer": "Yes, the windows are large and allow a lot of natural light to enter the room.<|eot_id|>"
+    },
+    {
+        "question_id": 262162009,
+        "answer": "The chair is made of leather and plastic.<|eot_id|>"
+    },
+    {
+        "question_id": 262162010,
+        "answer": "The room depicted in the image appears to be a home office or study, as evidenced by the desk, chair, and computer. The presence of a bed in the corner suggests that the room may also serve as a bedroom. However, without additional context or information, it is difficult to say for certain whether this room is located in someone's home or"
+    },
+    {
+        "question_id": 262162011,
+        "answer": "This is a home office, as evidenced by the desk, computer, and chair.<|eot_id|>"
+    },
+    {
+        "question_id": 262162012,
+        "answer": "No, the bed is not white. It has a yellow and white striped comforter on it.<|eot_id|>"
+    },
+    {
+        "question_id": 262162013,
+        "answer": "No, this could not be a hotel room. The room is small and appears to be a home office, with a desk and chair, and a bed in the corner. The room is also cluttered with various items, including a computer monitor, a printer, and a lamp. Additionally, the walls are adorned with framed photos and artwork, which"
+    },
+    {
+        "question_id": 262162014,
+        "answer": "No, the bed is not made. It appears to be unmade and has a pink comforter on it.<|eot_id|>"
+    },
+    {
+        "question_id": 262162015,
+        "answer": "No, there are no bed headboards visible in the photo.<|eot_id|>"
+    },
+    {
+        "question_id": 262162016,
+        "answer": "No, there is no mirror in the room.<|eot_id|>"
+    },
+    {
+        "question_id": 262162017,
+        "answer": "This room appears to be a home office or study, as it contains a desk, chair, computer monitor, and bookshelf.<|eot_id|>"
+    },
+    {
+        "question_id": 262162018,
+        "answer": "There is one chair in the photo.<|eot_id|>"
+    },
+    {
+        "question_id": 262162019,
+        "answer": "No, the desk appears to be tidy and organized, with a few items on it but no visible clutter.<|eot_id|>"
+    },
+    {
+        "question_id": 262162020,
+        "answer": "No, the bed has not been made. The comforter is rumpled and wrinkled, and the sheets are not smoothed out.<|eot_id|>"
+    },
+    {
+        "question_id": 262162021,
+        "answer": "There is one seat, which is the black leather chair positioned in front of the desk.<|eot_id|>"
+    },
+    {
+        "question_id": 262162022,
+        "answer": "There are six frames on the wall.<|eot_id|>"
+    },
+    {
+        "question_id": 262162023,
+        "answer": "The walls are white.<|eot_id|>"
+    },
+    {
+        "question_id": 262162024,
+        "answer": "Yes, there is a box under the desk.<|eot_id|>"
+    },
+    {
+        "question_id": 262162025,
+        "answer": "Yes, this could be a multi-purpose room. The room contains a bed, a desk, and a chair, suggesting that it may be used for both sleeping and working. The presence of a bed indicates that the room is intended for sleeping, while the desk and chair suggest that it is also used for work or study. Additionally, the fact that"
+    },
+    {
+        "question_id": 262162026,
+        "answer": "The chair resembles a leopard print.<|eot_id|>"
+    },
+    {
+        "question_id": 262162027,
+        "answer": "Behind the foot of the bed is a desk with a computer on it.<|eot_id|>"
+    },
+    {
+        "question_id": 262162028,
+        "answer": "The bed appears to be a twin size, as evidenced by the single mattress and the relatively small space it occupies in the room.<|eot_id|>"
+    },
+    {
+        "question_id": 262162029,
+        "answer": "There are 6 pictures on the wall.<|eot_id|>"
+    },
+    {
+        "question_id": 393243000,
+        "answer": "The image shows a young boy with a powdered sugar-covered donut in his hand, and it appears that he has already consumed some of the donut. Based on this information, it is likely that the boy will eventually wipe off the powdered sugar from his face, but it is impossible to say for certain without more context or information.<|eot_id|>"
+    },
+    {
+        "question_id": 393243001,
+        "answer": "The child appears to be eating a powdered sugar-covered donut, as evidenced by the white powder on his nose and mouth.<|eot_id|>"
+    },
+    {
+        "question_id": 393243002,
+        "answer": "No, the person depicted in the image does not appear to be wearing a tie.<|eot_id|>"
+    },
+    {
+        "question_id": 393243003,
+        "answer": "The child's hair is blonde.<|eot_id|>"
+    },
+    {
+        "question_id": 262175000,
+        "answer": "No, the man's tie is not purple. It appears to be made of leaves and is green in color.<|eot_id|>"
+    },
+    {
+        "question_id": 262175001,
+        "answer": "The picture was taken in a wooded area, as evidenced by the trees and foliage visible behind the man.<|eot_id|>"
+    },
+    {
+        "question_id": 262175002,
+        "answer": "The man is wearing a hat made from leaves, which appears to be a traditional or cultural item.<|eot_id|>"
+    },
+    {
+        "question_id": 262175003,
+        "answer": "No, this is not a designer tie. This is a tie made from leaves, as evidenced by the man in the image who appears to be wearing it. The leaves are woven together to form a pattern, and the tie is attached to a string or cord, which is worn around the neck.<|eot_id|>"
+    },
+    {
+        "question_id": 131108000,
+        "answer": "No, the photo is in black and white.<|eot_id|>"
+    },
+    {
+        "question_id": 131108001,
+        "answer": "The door appears to open outward, as indicated by the direction of the hinges and the fact that it is set into a brick wall.<|eot_id|>"
+    },
+    {
+        "question_id": 131108002,
+        "answer": "Yes, there is a drainage grate visible in the image.<|eot_id|>"
+    },
+    {
+        "question_id": 393254000,
+        "answer": "The sentence at the top of the image reads, \"This is camping.\"<|eot_id|>"
+    },
+    {
+        "question_id": 393254001,
+        "answer": "The RV in the bottom picture is pulling a trailer.<|eot_id|>"
+    },
+    {
+        "question_id": 393254002,
+        "answer": "The camping tent is in the top image, behind the RV.<|eot_id|>"
+    },
+    {
+        "question_id": 42000,
+        "answer": "The gym shoes are white.<|eot_id|>"
+    },
+    {
+        "question_id": 42001,
+        "answer": "Yes, there is a red sandal here. It has a black strap and a blue design on it.<|eot_id|>"
+    },
+    {
+        "question_id": 42002,
+        "answer": "The flip flop is red with a blue and white design.<|eot_id|>"
+    },
+    {
+        "question_id": 131115000,
+        "answer": "Yes, there are players in the dugout.<|eot_id|>"
+    },
+    {
+        "question_id": 131115001,
+        "answer": "No, the batter is looking at the ball. The catcher and umpire are looking at the batter.<|eot_id|>"
+    },
+    {
+        "question_id": 131115002,
+        "answer": "There are three people on the field: the batter, catcher, and umpire.<|eot_id|>"
+    },
+    {
+        "question_id": 262189000,
+        "answer": "There are 4 signs in the image.<|eot_id|>"
+    },
+    {
+        "question_id": 262189001,
+        "answer": "The Salisbury Rd. sign is yellow and white.<|eot_id|>"
+    },
+    {
+        "question_id": 262189002,
+        "answer": "The last sign reads \"ROSS ST\".<|eot_id|>"
+    },
+    {
+        "question_id": 393266000,
+        "answer": "The sign is red and yellow.<|eot_id|>"
+    },
+    {
+        "question_id": 393266001,
+        "answer": "It is not possible to turn right or left in the tunnel, as it is a one-way street with a no-left-turn sign.<|eot_id|>"
+    },
+    {
+        "question_id": 393266002,
+        "answer": "The plant is green.<|eot_id|>"
+    },
+    {
+        "question_id": 393267000,
+        "answer": "The woman on the left is wearing a black shirt.<|eot_id|>"
+    },
+    {
+        "question_id": 393267001,
+        "answer": "The beverage being displayed is wine, as indicated by the numerous bottles on display and the glasses being used to taste them.<|eot_id|>"
+    },
+    {
+        "question_id": 393267002,
+        "answer": "There are no hats in this image. The people in the image are wearing shirts and jackets, but there are no hats visible.<|eot_id|>"
+    },
+    {
+        "question_id": 393267003,
+        "answer": "The people are involved in a wine tasting event, as evidenced by the numerous bottles of wine on the table and the glasses being held by the attendees.<|eot_id|>"
+    },
+    {
+        "question_id": 262197000,
+        "answer": "There are no skyscrapers in the image. The buildings appear to be mid-rise, with a maximum of 10 stories.<|eot_id|>"
+    },
+    {
+        "question_id": 262197001,
+        "answer": "The building in the background is brown.<|eot_id|>"
+    },
+    {
+        "question_id": 262197002,
+        "answer": "Yes, there is a tree in front of the building.<|eot_id|>"
+    },
+    {
+        "question_id": 262197003,
+        "answer": "Yes, there is a person riding a bike.<|eot_id|>"
+    },
+    {
+        "question_id": 262197004,
+        "answer": "No, there are no lights on in the two buildings.<|eot_id|>"
+    },
+    {
+        "question_id": 262197005,
+        "answer": "The building on the left appears to be at least three stories tall, as evidenced by the presence of windows on multiple levels. However, it's difficult to determine the exact number of stories without more information or a clearer view of the building.<|eot_id|>"
+    },
+    {
+        "question_id": 262197006,
+        "answer": "No, this is not a hospital. This is the Oslo City Hall, a municipal building in Oslo, Norway. It was designed by the architect Arnstein Arneberg and the architectural firm Arnstein and Finn Noe and built from 1924 to 1934. The building is home to the city council, the mayor, and the offices"
+    },
+    {
+        "question_id": 262197007,
+        "answer": "There are no umbrellas visible in the image.<|eot_id|>"
+    },
+    {
+        "question_id": 262197008,
+        "answer": "The building on the right is not painted, it is made of brick. There is no paint on it.<|eot_id|>"
+    },
+    {
+        "question_id": 262197009,
+        "answer": "The boy has a backpack on his back.<|eot_id|>"
+    },
+    {
+        "question_id": 262197010,
+        "answer": "There appear to be two modes of transportation depicted in the image: one on the ground and one in the air. The mode of transportation on the ground is a person walking, while the mode of transportation in the air is an airplane.<|eot_id|>"
+    },
+    {
+        "question_id": 262197011,
+        "answer": "The building is brown.<|eot_id|>"
+    },
+    {
+        "question_id": 393271000,
+        "answer": "No, it appears to be overcast and the snow is already on the ground. The snow is also not falling in the image, so it is likely that it has already snowed.<|eot_id|>"
+    },
+    {
+        "question_id": 393271001,
+        "answer": "No, this photo does not appear to be a multiple exposure of the black clad snowboarder. It seems to be a single shot of a line of snowboarders, with the first one in the foreground and the rest in the background, all moving in the same direction. The snowboarders are all wearing black clothing, which gives the image"
+    },
+    {
+        "question_id": 393271002,
+        "answer": "There are seven people in the picture.<|eot_id|>"
+    },
+    {
+        "question_id": 262200000,
+        "answer": "No, this is not an adult party, as there are children present.<|eot_id|>"
+    },
+    {
+        "question_id": 262200001,
+        "answer": "A birthday is being celebrated, as evidenced by the cake and candles on the table.<|eot_id|>"
+    },
+    {
+        "question_id": 262200002,
+        "answer": "A child is in front of the cake with candles.<|eot_id|>"
+    },
+    {
+        "question_id": 393274000,
+        "answer": "This vehicle is a train, specifically a Class 142 Pacer diesel multiple unit operated by Arriva Trains Wales.<|eot_id|>"
+    },
+    {
+        "question_id": 393274001,
+        "answer": "No, the hook up for the train is not visible in this image. The train is on the tracks, but the hook up is not shown.<|eot_id|>"
+    },
+    {
+        "question_id": 393274002,
+        "answer": "Yes, the train is at the station, as indicated by its presence on the tracks and the platform.<|eot_id|>"
+    },
+    {
+        "question_id": 393274003,
+        "answer": "The train is cast.<|eot_id|>"
+    },
+    {
+        "question_id": 393274004,
+        "answer": "The background metal structure is a train station roof.<|eot_id|>"
+    },
+    {
+        "question_id": 393274005,
+        "answer": "No, there is no smoke coming out of the train.<|eot_id|>"
+    },
+    {
+        "question_id": 393274006,
+        "answer": "Yes, the station appears to be in a rural setting, as evidenced by the presence of trees and hills in the background.<|eot_id|>"
+    },
+    {
+        "question_id": 393274007,
+        "answer": "No, the train tracks are not clear. The tracks are obstructed by a train.<|eot_id|>"
+    },
+    {
+        "question_id": 131131000,
+        "answer": "The cat in the image appears to be a tabby cat, which is a domestic cat with a distinctive M-shaped marking on its forehead and stripes on its body.<|eot_id|>"
+    },
+    {
+        "question_id": 131131001,
+        "answer": "The text \"LG\" is written on the monitor in the picture.<|eot_id|>"
+    },
+    {
+        "question_id": 131131002,
+        "answer": "There are two cats in the image.<|eot_id|>"
+    },
+    {
+        "question_id": 393277000,
+        "answer": "Yes, there is a tour bus in the image. It is a white car with a license plate that reads \"EKOI WPF.\"<|eot_id|>"
+    },
+    {
+        "question_id": 393277001,
+        "answer": "The statue is of a ship's wheel, likely a symbol of maritime heritage or a nod to the town's nautical past.<|eot_id|>"
+    },
+    {
+        "question_id": 393277002,
+        "answer": "No, the car on the left is facing to the left, while the other two cars are facing to the right.<|eot_id|>"
+    },
+    {
+        "question_id": 393277003,
+        "answer": "The car is from 2008, as indicated by the license plate.<|eot_id|>"
+    },
+    {
+        "question_id": 393277004,
+        "answer": "The sky is a light blue-gray color, with some clouds visible.<|eot_id|>"
+    },
+    {
+        "question_id": 393277005,
+        "answer": "The clock reads 7:00.<|eot_id|>"
+    },
+    {
+        "question_id": 393277006,
+        "answer": "There are no people milling around, as there are no people visible in the image. The image appears to be a photograph of a clock tower and a car driving down the street, with no people present.<|eot_id|>"
+    },
+    {
+        "question_id": 393277007,
+        "answer": "Yes, the building is large, as indicated by its clock tower and the size of the clock faces.<|eot_id|>"
+    },
+    {
+        "question_id": 393277008,
+        "answer": "The weather appears to be overcast and gray, with a chance of rain.<|eot_id|>"
+    },
+    {
+        "question_id": 393277009,
+        "answer": "The building in the background is white.<|eot_id|>"
+    },
+    {
+        "question_id": 393277010,
+        "answer": "The clock tower shows the time as 4:30.<|eot_id|>"
+    },
+    {
+        "question_id": 393277011,
+        "answer": "The image suggests that it may rain here a lot, as the sky is gray and cloudy, and there are dark clouds visible in the background. Additionally, the fact that the car's windshield wipers are on could indicate that it is raining or has recently rained.<|eot_id|>"
+    },
+    {
+        "question_id": 393277012,
+        "answer": "The famous landmark in the background is the clock tower of the Royal Pier in Swansea, Wales.<|eot_id|>"
+    },
+    {
+        "question_id": 393277013,
+        "answer": "No, the image depicts a clock tower and a car, with no cake visible.<|eot_id|>"
+    },
+    {
+        "question_id": 393277014,
+        "answer": "Yes, the street is a one-way street, as indicated by the green traffic light in the background.<|eot_id|>"
+    },
+    {
+        "question_id": 393277015,
+        "answer": "The dome of the building off in the distance is blue and red.<|eot_id|>"
+    },
+    {
+        "question_id": 393277016,
+        "answer": "There are clocks in the tower.<|eot_id|>"
+    },
+    {
+        "question_id": 393282000,
+        "answer": "The giraffe on the left appears to be a baby, as it is smaller than the other giraffe.<|eot_id|>"
+    },
+    {
+        "question_id": 393282001,
+        "answer": "There are two giraffes in the image.<|eot_id|>"
+    },
+    {
+        "question_id": 393282002,
+        "answer": "No, the animals are not in the shade. The sun is shining on them, and there is no visible shade structure or object providing protection from the sun.<|eot_id|>"
+    },
+    {
+        "question_id": 393282003,
+        "answer": "There are two giraffes visible in the image.<|eot_id|>"
+    },
+    {
+        "question_id": 393282004,
+        "answer": "No, the animals are not in the wild. They are in a zoo or wildlife park, as evidenced by the fence and enclosure in the background.<|eot_id|>"
+    },
+    {
+        "question_id": 393282005,
+        "answer": "The white-roofed open pavilion is likely a shelter for the giraffes to protect them from the elements, providing shade and relief from the sun.<|eot_id|>"
+    },
+    {
+        "question_id": 393282006,
+        "answer": "It is likely that these giraffes will be eating grass for dinner. The giraffes appear to be in an open field with dry grass, which suggests that they are grazing. Additionally, giraffes are herbivores and primarily feed on grasses, leaves, and fruits.<|eot_id|>"
+    },
+    {
+        "question_id": 393282007,
+        "answer": "No, there is no body of water in the picture. The image appears to be a dry, arid landscape with trees and bushes in the background.<|eot_id|>"
+    },
+    {
+        "question_id": 393282008,
+        "answer": "There is a metal structure with a yellow canopy in front of the giraffe.<|eot_id|>"
+    },
+    {
+        "question_id": 393282009,
+        "answer": "There are two giraffes in the picture.<|eot_id|>"
+    },
+    {
+        "question_id": 393282010,
+        "answer": "These animals, known as giraffes, are native to Africa and can be found in various savannas, grasslands, and open woodlands across the continent. They are widely distributed throughout sub-Saharan Africa, with populations in countries such as South Africa, Kenya, Tanzania, and Botswana.<|eot_id|>"
+    },
+    {
+        "question_id": 393282011,
+        "answer": "The animals in the image are giraffes.<|eot_id|>"
+    },
+    {
+        "question_id": 393284000,
+        "answer": "No, this is not a beach scene. The image depicts a snowboarder in mid-air, with a snowy landscape and trees visible in the background, indicating a winter setting.<|eot_id|>"
+    },
+    {
+        "question_id": 393284001,
+        "answer": "The kid is riding a snowboard.<|eot_id|>"
+    },
+    {
+        "question_id": 393284002,
+        "answer": "The person in the image is snowboarding, as evidenced by the snowboard they are riding and the snowy terrain below them.<|eot_id|>"
+    },
+    {
+        "question_id": 393284003,
+        "answer": "The man is snowboarding.<|eot_id|>"
+    },
+    {
+        "question_id": 393284004,
+        "answer": "Yes, the man in the image is snowboarding.<|eot_id|>"
+    },
+    {
+        "question_id": 393284005,
+        "answer": "No, the trees are bare and do not have any snow on them.<|eot_id|>"
+    },
+    {
+        "question_id": 393284006,
+        "answer": "Yes, the person is flying. They are in the air on a snowboard.<|eot_id|>"
+    },
+    {
+        "question_id": 393284007,
+        "answer": "No, the man in the image is not flying off of the ski slope. He is snowboarding, which involves riding a snowboard down a slope or hill, typically on a snowy surface. Snowboarding is a popular winter sport that involves gliding down a slope on a single board, using one's feet to control the direction and speed of the"
+    },
+    {
+        "question_id": 393284008,
+        "answer": "The person is wearing a red jacket, yellow pants, and black gloves.<|eot_id|>"
+    },
+    {
+        "question_id": 393284009,
+        "answer": "The man is snowboarding.<|eot_id|>"
+    },
+    {
+        "question_id": 393284010,
+        "answer": "The helmet does not appear to have any pattern painted on it.<|eot_id|>"
+    },
+    {
+        "question_id": 393284011,
+        "answer": "It appears that the snowboarder is in mid-air, but it's difficult to say for certain whether he will land or not. The image captures a moment of his jump, and it's unclear what happens next. However, based on the context of the scene, it seems likely that he is attempting to land the trick and will successfully do so"
+    },
+    {
+        "question_id": 393284012,
+        "answer": "The man is participating in snowboarding, as evidenced by his board and the snowy landscape.<|eot_id|>"
+    },
+    {
+        "question_id": 393284013,
+        "answer": "A snowboarder is in the air, performing a trick.<|eot_id|>"
+    },
+    {
+        "question_id": 393284014,
+        "answer": "Yes, the man appears to be wearing goggles.<|eot_id|>"
+    },
+    {
+        "question_id": 393284015,
+        "answer": "Red.<|eot_id|>"
+    },
+    {
+        "question_id": 393288000,
+        "answer": "This is a church.<|eot_id|>"
+    },
+    {
+        "question_id": 393288001,
+        "answer": "There is no dome shaped roof in the image, the building appears to be a church with steeples and no dome.<|eot_id|>"
+    },
+    {
+        "question_id": 393288002,
+        "answer": "The church is primarily red brick, with white trim and accents. There are also some dark grey steeple tops.<|eot_id|>"
+    },
+    {
+        "question_id": 393288003,
+        "answer": "The cars are in the street, in front of the church.<|eot_id|>"
+    },
+    {
+        "question_id": 393288004,
+        "answer": "There is no triangular dome in the image. The building appears to be a church, and there is no dome visible.<|eot_id|>"
+    },
+    {
+        "question_id": 524361000,
+        "answer": "The bird is perched on the spokes of a bicycle wheel.<|eot_id|>"
+    },
+    {
+        "question_id": 524361001,
+        "answer": "There is one bird in the image.<|eot_id|>"
+    },
+    {
+        "question_id": 524361002,
+        "answer": "The bird's feathers are gray, with some black and white feathers mixed in.<|eot_id|>"
+    },
+    {
+        "question_id": 74000,
+        "answer": "No, the dog does not appear to have a collar.<|eot_id|>"
+    },
+    {
+        "question_id": 74001,
+        "answer": "The dog is lying on a stone-paved street, with a bicycle leaning against a wall to its left and a row of buildings lining the street behind it.<|eot_id|>"
+    },
+    {
+        "question_id": 74002,
+        "answer": "The dog is lying down on the ground, appearing to rest or sleep.<|eot_id|>"
+    },
+    {
+        "question_id": 131152000,
+        "answer": "Yes, the person in the middle of the image is wearing a wetsuit. The person on the left appears to be wearing a wetsuit as well, but it is mostly obscured by the red surfboard. The person on the right appears to be wearing a yellow shirt, but it is unclear if they are also wearing a wetsuit"
+    },
+    {
+        "question_id": 131152001,
+        "answer": "The waves are choppy and rough, with whitecaps visible on the surface.<|eot_id|>"
+    },
+    {
+        "question_id": 131152002,
+        "answer": "There are five people in the image.<|eot_id|>"
+    },
+    {
+        "question_id": 131152003,
+        "answer": "Yes, the people in the image appear to be wet. They are standing in the ocean and wearing wetsuits, which suggests that they have been swimming or surfing. The presence of surfboards and the ocean waves in the background further supports this conclusion.<|eot_id|>"
+    },
+    {
+        "question_id": 262227000,
+        "answer": "Yes, there are pill bottles on the shelf to the right of the computer.<|eot_id|>"
+    },
+    {
+        "question_id": 262227001,
+        "answer": "The sign above the doorway is an exit sign.<|eot_id|>"
+    },
+    {
+        "question_id": 262227002,
+        "answer": "The computer is a Dell Inspiron, which was a popular model in the early 2000s. It was known for its reliability and affordability, making it a popular choice among consumers.<|eot_id|>"
+    },
+    {
+        "question_id": 262227003,
+        "answer": "The ribbon is purple.<|eot_id|>"
+    },
+    {
+        "question_id": 262228000,
+        "answer": "The ground is made of brick.<|eot_id|>"
+    },
+    {
+        "question_id": 262228001,
+        "answer": "The bicycles are chained to prevent theft. The sign in the background, which reads \"YOUR BUTTS ARE A BIKE THEFT PROBLEM,\" suggests that the bicycles are being kept secure because they are frequently stolen. The sign is likely intended to be humorous and ironic, as it implies that the solution to bike theft is to chain the bicycles to prevent"
+    },
+    {
+        "question_id": 262228002,
+        "answer": "The vehicles in the image are bicycles, as indicated by their frames, wheels, and handlebars.<|eot_id|>"
+    },
+    {
+        "question_id": 262228003,
+        "answer": "These are not chairs, but rather bicycle racks. They are designed to hold bicycles in a secure and organized manner, allowing cyclists to park their bikes in a designated area. The racks typically consist of metal or wooden structures with multiple slots or hooks where bicycles can be placed. They are commonly found in public spaces, such as parks, sidewalks, and bike"
+    },
+    {
+        "question_id": 262228004,
+        "answer": "The bicycles are chained to a bike rack, which is located on a sidewalk in front of a building. The bike rack is made of metal and has a sign that says \"YOUR BUTTS ARE A BIKE PRIORITY\" in large letters. The sign also includes a picture of a bicycle seat and a message that says \"Please do not park your"
+    },
+    {
+        "question_id": 262228005,
+        "answer": "There are several bicycles on the ground.<|eot_id|>"
+    },
+    {
+        "question_id": 262229000,
+        "answer": "A woman's ponytail is gliding in the air.<|eot_id|>"
+    },
+    {
+        "question_id": 262229001,
+        "answer": "Soccer.<|eot_id|>"
+    },
+    {
+        "question_id": 262229002,
+        "answer": "I'm sorry, I can't help with that.<|eot_id|>"
+    },
+    {
+        "question_id": 262229003,
+        "answer": "There are no babies visible in the image. The image shows four young women playing soccer on a grassy field, and none of them appear to be babies.<|eot_id|>"
+    },
+    {
+        "question_id": 262229004,
+        "answer": "These are women, as indicated by the ponytails and the fact that they are playing soccer.<|eot_id|>"
+    },
+    {
+        "question_id": 262229005,
+        "answer": "Headbands.<|eot_id|>"
+    },
+    {
+        "question_id": 262229006,
+        "answer": "They are playing soccer, as evidenced by the uniforms and the ball.<|eot_id|>"
+    },
+    {
+        "question_id": 131159000,
+        "answer": "The bear is sitting on the floor of a car, positioned between the driver's side pedal and the center console.<|eot_id|>"
+    },
+    {
+        "question_id": 131159001,
+        "answer": "The bear is not real, it is a stuffed animal.<|eot_id|>"
+    },
+    {
+        "question_id": 131159002,
+        "answer": "The color of the bear is yellow.<|eot_id|>"
+    },
+    {
+        "question_id": 262235000,
+        "answer": "The woman in the image is smiling, which suggests that she is experiencing happiness or contentment. Her facial expression is characterized by a wide, toothy grin, which indicates that she is feeling positive emotions.<|eot_id|>"
+    },
+    {
+        "question_id": 262235001,
+        "answer": "The window is covered by a curtain.<|eot_id|>"
+    },
+    {
+        "question_id": 262235002,
+        "answer": "The woman's nails are silver.<|eot_id|>"
+    },
+    {
+        "question_id": 262235003,
+        "answer": "The woman has a lanyard around her neck, which is likely used to hold an identification card or badge.<|eot_id|>"
+    },
+    {
+        "question_id": 262235004,
+        "answer": "The woman in the image is smiling.<|eot_id|>"
+    },
+    {
+        "question_id": 262235005,
+        "answer": "The image appears to depict a woman, as evidenced by her hair, which is styled in a way that suggests it belongs to a female. Additionally, the woman's attire, including a white shirt and black pants, is consistent with traditional women's clothing.<|eot_id|>"
+    },
+    {
+        "question_id": 262235006,
+        "answer": "The girl is talking on her cell phone.<|eot_id|>"
+    },
+    {
+        "question_id": 524382000,
+        "answer": "The dogs in the image appear to be English Foxhounds, a breed of hunting dog known for their distinctive appearance and hunting abilities. Here are some key characteristics that suggest they are English Foxhounds:\n\n**Physical Characteristics:**\n\n*   **Size:** English Foxhounds are medium-sized dogs, typically weighing between 55-75 pounds (25"
+    },
+    {
+        "question_id": 524382001,
+        "answer": "The dogs appear to be contained within a fenced area, likely a kennel or enclosure. The fence is made of wood and has vertical slats that are spaced closely together, preventing the dogs from escaping. The fence is also elevated off the ground, which further restricts the dogs' movement. Additionally, the dogs may be wearing collars or harness"
+    },
+    {
+        "question_id": 524382002,
+        "answer": "No, not all the dogs are looking in the same direction. The dog on the left is looking to the left, while the other three dogs are looking forward.<|eot_id|>"
+    },
+    {
+        "question_id": 262242000,
+        "answer": "The women's racket is touching the pickleball court.<|eot_id|>"
+    },
+    {
+        "question_id": 262242001,
+        "answer": "A net is stretched across the court.<|eot_id|>"
+    },
+    {
+        "question_id": 262242002,
+        "answer": "The man's body language suggests that he is engaged and enthusiastic about playing tennis, as evidenced by his stance and the presence of a racket in his hand.<|eot_id|>"
+    },
+    {
+        "question_id": 262242003,
+        "answer": "The court is green.<|eot_id|>"
+    },
+    {
+        "question_id": 262242004,
+        "answer": "The players appear to be in the midst of a game, and their body language suggests that they are focused on the match rather than exhibiting signs of exhaustion.<|eot_id|>"
+    },
+    {
+        "question_id": 262242005,
+        "answer": "No, the court is green.<|eot_id|>"
+    },
+    {
+        "question_id": 262242006,
+        "answer": "No, the person in the image appears to be playing singles, as there is only one net and no other player visible on the court.<|eot_id|>"
+    },
+    {
+        "question_id": 262242007,
+        "answer": "No, only the man on the right is wearing a hat.<|eot_id|>"
+    },
+    {
+        "question_id": 262242008,
+        "answer": "No, the two men in the image do not appear to be professional tennis players. They are playing pickleball, which is a sport that is similar to tennis but has some key differences. Pickleball is played on a smaller court with a lower net, and the balls used are plastic with holes. The game is often played in a more casual"
+    },
+    {
+        "question_id": 131171000,
+        "answer": "Yes, the bread is visible in the image.<|eot_id|>"
+    },
+    {
+        "question_id": 131171001,
+        "answer": "There are two bins.<|eot_id|>"
+    },
+    {
+        "question_id": 131171002,
+        "answer": "The meal depicted in the image appears to be a healthy one, as it includes a variety of foods that are rich in nutrients and low in unhealthy ingredients. The sandwich appears to be made with whole-grain bread, which is a good source of fiber and nutrients, and is paired with a filling that is likely made with lean protein and vegetables. The"
+    },
+    {
+        "question_id": 262161000,
+        "answer": "There are two exhaust pipes visible in the image, one on the front and one on the rear of the motorcycle.<|eot_id|>"
+    },
+    {
+        "question_id": 262161001,
+        "answer": "No, the silver bike is not new. It has a vintage design and appears to be a classic model, likely from the 1970s or 1980s. The presence of the \"DUCATI\" logo on the side of the tank suggests that it is a genuine Ducati motorcycle, which were produced during this time period."
+    },
+    {
+        "question_id": 262161002,
+        "answer": "No, the grass is not bright green. The grass in the image appears to be a mix of green and brown, with some areas appearing more yellowish or dry.<|eot_id|>"
+    },
+    {
+        "question_id": 262161003,
+        "answer": "A grassy field.<|eot_id|>"
+    },
+    {
+        "question_id": 262161004,
+        "answer": "The number 750 is likely a reference to the engine size of the Ducati motorcycle, which is typically measured in cubic centimeters (cc) or cubic inches (ci). In this case, the \"750\" on the side of the bike indicates that it has a 750cc engine.<|eot_id|>"
+    }
+]

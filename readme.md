@@ -1,0 +1,4 @@
+- `question_ids.json`: list of question ids that were answered by the model
+- `second_pass.json`: list of answer objects in the format used by the VQA evaluation logic answered by Llama 3.2
+- `vision.py`: the evaluation script for the vision task
+- `resize.py`: the script used to resize the images
